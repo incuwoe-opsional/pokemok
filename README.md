@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # pokemok
 =======
-# nutrifood
 
 A new Flutter project.
 
